@@ -2,7 +2,7 @@ using Helpers;
 
 namespace Day00
 {
-    public static class Constants
+    public static class Shared
     {
         // public const string InputFilePath = "day00/sample.txt";
         public const string InputFilePath = "day00/input.txt";
@@ -12,7 +12,7 @@ namespace Day00
     {
         public static int Run()
         {
-            foreach (string line in FileHelper.ReadLinesByNewline(Constants.InputFilePath))
+            foreach (string line in FileHelper.ReadLinesByNewline(Shared.InputFilePath))
             {
                 
             }
@@ -25,7 +25,7 @@ namespace Day00
     {
         public static int Run()
         {
-            foreach (string line in FileHelper.ReadLinesByNewline(Constants.InputFilePath))
+            foreach (string line in FileHelper.ReadLinesByNewline(Shared.InputFilePath))
             {
                 
             }
