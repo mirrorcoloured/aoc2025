@@ -11,7 +11,9 @@
         // int result = Day04.SolutionOne.Run();
         // int result = Day04.SolutionTwo.Run();
         // long result = Day05.SolutionOne.Run();
-        long result = Day05.SolutionTwo.Run();
+        // long result = Day05.SolutionTwo.Run();
+        // long result = Day06.SolutionOne.Run();
+        long result = Day06.SolutionTwo.Run();
 
         Console.WriteLine("Result: " + result);
     }
