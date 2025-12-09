@@ -1,3 +1,7 @@
+# Input data
+input.txt
+!day00/input.txt
+
 # Build results
 bin/
 obj/
