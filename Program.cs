@@ -14,7 +14,9 @@
         // Console.WriteLine("Result: " + Day05.SolutionTwo.Run());
         // Console.WriteLine("Result: " + Day06.SolutionOne.Run());
         // Console.WriteLine("Result: " + Day06.SolutionTwo.Run());
-        Console.WriteLine("Result: " + Day07.SolutionOne.Run());
-        Console.WriteLine("Result: " + Day07.SolutionTwo.Run());
+        // Console.WriteLine("Result: " + Day07.SolutionOne.Run());
+        // Console.WriteLine("Result: " + Day07.SolutionTwo.Run());
+        Console.WriteLine("Result: " + Day08.SolutionOne.Run());
+        Console.WriteLine("Result: " + Day08.SolutionTwo.Run());
     }
 }
